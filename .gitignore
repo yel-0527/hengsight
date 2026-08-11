@@ -1,0 +1,4 @@
+# Public showcase repository: deny accidental additions by default.
+*
+!.gitignore
+!README.md
